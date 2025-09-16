@@ -2,10 +2,7 @@
 
 At the top, begin a table of contents, Ex.:
 ## Table of Contents
-- [Day 1](#day-1)
-  - [Notes](#notes)
-  - [Practice](#practice)
-- [Day 2](#day-2)
+- [definitions with structure](#flutter-definitions)
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 ## Markdown Style Guide for Coding Notebooks
